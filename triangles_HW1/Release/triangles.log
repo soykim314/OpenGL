@@ -1,0 +1,4 @@
+﻿  LoadShaders.cpp
+c:\users\prime58\desktop\hw2\triangles\loadshaders.cpp(10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  main.cpp
+c:\users\prime58\desktop\hw2\triangles\main.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
