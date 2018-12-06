@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\prime58\desktop\hw2\triangles\main.cpp(74): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\prime58\desktop\hw2\triangles\main.cpp(173): warning C4101: 'y_i' :참조되지 않은 지역 변수입니다.
+c:\users\prime58\desktop\hw2\triangles\main.cpp(364): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  triangles.vcxproj -> C:\Users\prime58\Desktop\HW2\triangles\Debug\triangles.exe
